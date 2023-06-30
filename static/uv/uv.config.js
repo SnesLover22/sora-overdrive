@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/sora-overdrive/static/',
+    prefix: '/sora-overdrive/static/snes/',
     bare: 'https://baresw.starttiw.org',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
