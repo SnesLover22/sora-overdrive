@@ -1,6 +1,6 @@
 var cacheName = 'TIWcog';
 var filesToCache = [
-  '/js/sw.js'
+  '/sora-overdrive/static/uv/sw.js'
 ];
 
 self.addEventListener('install', function(e) {
